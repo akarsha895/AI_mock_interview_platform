@@ -3,6 +3,7 @@
 .pnp.*
 .pnp.js
 backend/serviceAccountKey.json
+frontend/front/src/firebase/firebase.js
 # === TEST OUTPUT ===
 **/coverage/
 
