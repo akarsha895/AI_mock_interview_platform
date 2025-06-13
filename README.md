@@ -60,6 +60,5 @@ There's a critical need for an accessible, scalable platform that provides quali
 
 - Akarsha  
 - Avani 
-- Jeevitha &
-- Shravya A
+- Jeevitha & Shravya A
   
